@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>A simple GuestBook</title>
+	</head>
+	<body>
+		%s
+		<form method="post">
+			<input type="text" name="name" placeholder="Input your name"><br> 
+			<textarea name="message" cols="50" rows="10" placeholder="Input your name"></textarea><br>
+			<input type="submit" value="send">
+		</form>
+
+	</body>
+</html>

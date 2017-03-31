@@ -1,0 +1,19 @@
+{
+  "name": "practice04",
+  "version": "1.0.0",
+  "description": "Web",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "practice04"
+  ],
+  "author": "Kasimov Nekruz",
+  "license": "MIT",
+  "dependencies": {
+    "mysql": "^2.13.0",
+    "validator": "^7.0.0"
+  }
+}
